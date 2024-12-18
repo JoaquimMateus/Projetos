@@ -1,4 +1,4 @@
-	create table cliente(
+create table cliente(
 id int primary key,
 nome varchar(50) not null,
 email varchar(100) not null,
